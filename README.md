@@ -1,0 +1,3 @@
+DICテキスト
+
+Keras_CNN
